@@ -1,3 +1,4 @@
 print("===프로그램 시작===")
 print("main")
+print("a가 추가함")
 print("===프로그램 끝===")
